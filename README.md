@@ -10,6 +10,12 @@ Obfuscation is commonly used to evade detection and hinder analysis. This repo p
 - Base64-encoded data
 - Other common obfuscation techniques used in malicious PowerShell scripts
 
+## Related Tools
+Additional tools that may assist with PowerShell deobfuscation include:
+
+- [Revoke-Obfuscation](https://github.com/danielbohannon/Revoke-Obfuscation) - An open-source PowerShell v3.0+ framework for detecting obfuscated PowerShell commands and scripts at scale.
+- [PowerDecode](https://github.com/Malandrone/PowerDecode) - PowerShell-based tool for de-obfuscating PowerShell scripts obfuscated across multiple layers in different obfuscation forms.
+
 ## Disclaimer
 These scripts are for research and educational purposes only. Use them responsibly.
 
