@@ -1,3 +1,4 @@
+#Input integer string below
 input_string = "X,X,X"
 
 numbers_as_strings = input_string.split(',')
